@@ -1,0 +1,14 @@
+# Ignorer les dossiers Node modules et l'environnement virtuel Python
+node_modules/
+venv/
+
+# Ignorer les fichiers compilés Python
+*.pyc
+__pycache__/
+
+# Ignorer les fichiers de configuration d'environnement
+.env
+
+# Autres dossiers ou fichiers générés
+dist/
+build/
